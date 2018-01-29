@@ -275,7 +275,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = AG65QFY9A6;
+				DEVELOPMENT_TEAM = ZEK99X5745;
 				INFOPLIST_FILE = TableViewUdemy/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = app.ios.TableViewUdemy;
@@ -290,7 +290,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = AG65QFY9A6;
+				DEVELOPMENT_TEAM = ZEK99X5745;
 				INFOPLIST_FILE = TableViewUdemy/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = app.ios.TableViewUdemy;
